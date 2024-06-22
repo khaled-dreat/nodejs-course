@@ -1,5 +1,4 @@
 const path = require('path');
-const { engine } = require('express-handlebars'); // التعديل هنا
 const express = require('express');
 const bodyParser = require('body-parser');
 
